@@ -1,0 +1,198 @@
+[33mcommit daae97aecdaf9fd79843bd0da1d1476c7c68cef3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mheroku/master[m[33m, [m[1;31mheroku/HEAD[m[33m)[m
+Author: pambisito <carlos_2017_1@hotmail.com>
+Date:   Wed Dec 30 15:58:00 2020 -0500
+
+    Arreglo condicional eliminar alumno
+
+[33mcommit 23c1e38d8adb91558110f363f46bc3fe474b85f4[m
+Merge: 31fc19f f8bf21c
+Author: gian <gian_ru350@hotmail.com>
+Date:   Sat Dec 26 20:06:42 2020 -0500
+
+    Merge branch 'master' of https://git.heroku.com/secure-hollows-63275
+
+[33mcommit 31fc19f0cc7725a7bbd1bf3349670c2a24355d89[m
+Author: gian <gian_ru350@hotmail.com>
+Date:   Sat Dec 26 20:04:37 2020 -0500
+
+    validación codigo repetido insertar listo
+
+[33mcommit f8bf21c6bb98585e45f0c614db2600a4e8dfda28[m
+Author: Bruno MF <brunofeijoo98@hotmail.com>
+Date:   Sat Dec 26 14:00:31 2020 -0500
+
+    Chispol lo hizo
+
+[33mcommit cfa9ac4823d836f8ebeb68eae8f7de84d3125362[m
+Author: Bruno MF <brunofeijoo98@hotmail.com>
+Date:   Sat Dec 26 12:59:49 2020 -0500
+
+    Limpiar input
+
+[33mcommit 9594c87dc82acef5b888711194778aeb8c57d910[m
+Author: Bruno MF <brunofeijoo98@hotmail.com>
+Date:   Sat Dec 26 12:11:23 2020 -0500
+
+    No cerrar modal al editar
+
+[33mcommit ff7056df9b7f8efd2c9ab76e1b9804636849b16c[m
+Author: pambisito <carlos_2017_1@hotmail.com>
+Date:   Sat Dec 26 01:18:49 2020 -0500
+
+    update front done
+
+[33mcommit 819992536d0b092026d74703f2c2144ae3165426[m
+Author: Dario <d.rrobles@hotmail.com>
+Date:   Fri Dec 25 23:36:56 2020 -0500
+
+    solucion update 1
+
+[33mcommit 617e81baf9fcc5fb1067d78947fda14c89b859b5[m
+Author: jespol123 <jespolanco0@gmail.com>
+Date:   Mon Dec 21 22:12:46 2020 -0500
+
+    darius
+
+[33mcommit e852e7ef37ba84cacfea057c126add26e5e5b497[m
+Author: Bruno Muñoz Feijóo <brunofeijoo98@hotmail.com>
+Date:   Sun Dec 20 16:43:42 2020 -0500
+
+    Spinner, etc
+
+[33mcommit f4ff255baa579f610bff589fc7462342a7f0c272[m
+Author: Bruno Muñoz Feijóo <brunofeijoo98@hotmail.com>
+Date:   Sun Dec 20 15:57:14 2020 -0500
+
+    Modales de alerta
+
+[33mcommit 74491023ff082d023d2e80371357cb3af7bf30ff[m
+Author: Bruno Muñoz Feijóo <brunofeijoo98@hotmail.com>
+Date:   Sun Dec 20 13:43:03 2020 -0500
+
+    Estilo
+
+[33mcommit c7f4d4de8171a2c7444e03f70ac664ef3b50c3ad[m
+Author: Dario <d.rrobles@hotmail.com>
+Date:   Sat Dec 19 20:23:31 2020 -0500
+
+    update modificado
+
+[33mcommit 1dd3dd815b318ab06b218531ed70af432bd31daa[m
+Author: Bruno Muñoz Feijóo <brunofeijoo98@hotmail.com>
+Date:   Sat Dec 19 15:21:38 2020 -0500
+
+    Buscar
+
+[33mcommit 5c16e95c4c3502906d2fdb7555203560a444be56[m
+Author: Bruno Muñoz Feijóo <brunofeijoo98@hotmail.com>
+Date:   Sat Dec 19 13:53:21 2020 -0500
+
+    Eliminarv1
+
+[33mcommit b7a4cdd36677c0cf4a87a0467f07d439c9b8c2c2[m
+Author: Bruno Muñoz Feijóo <brunofeijoo98@hotmail.com>
+Date:   Sat Dec 19 12:41:32 2020 -0500
+
+    Ruta
+
+[33mcommit d4f9f4d1c2ac55a5d0bc7f22b91dca7f1d5f7437[m
+Author: Bruno Muñoz Feijóo <brunofeijoo98@hotmail.com>
+Date:   Sat Dec 19 12:01:00 2020 -0500
+
+    Mayusv2
+
+[33mcommit 62b22f5106abb7d46ab1e7ae52855309b0cad1e9[m
+Author: Bruno Muñoz Feijóo <brunofeijoo98@hotmail.com>
+Date:   Sat Dec 19 11:51:49 2020 -0500
+
+    Mayusv1
+
+[33mcommit 46ecf605996650012d0649fd01b182ff25cbd88b[m
+Author: jespol123 <jespolanco0@gmail.com>
+Date:   Sat Dec 19 03:51:26 2020 -0500
+
+    mayus - seleccionar opcion
+
+[33mcommit 1638cbd7cd4ef4f18740cfa51747120433954b3e[m
+Author: Dario <d.rrobles@hotmail.com>
+Date:   Sat Dec 19 02:31:23 2020 -0500
+
+    front mode
+
+[33mcommit fb1e0ce4275a131d6f98c6988d5a30d3d8dd892e[m
+Author: Dario <d.rrobles@hotmail.com>
+Date:   Fri Dec 18 19:52:50 2020 -0500
+
+    front modificado
+
+[33mcommit d265f1e3276d25162b7c999b8d19c620790b4e96[m
+Author: Dario <d.rrobles@hotmail.com>
+Date:   Fri Dec 11 16:35:00 2020 -0500
+
+    modificacion 1
+
+[33mcommit 940d62b95ab0eb6c720fdde0c2c9d559b36323c8[m
+Author: Dario <d.rrobles@hotmail.com>
+Date:   Fri Dec 4 17:51:04 2020 -0500
+
+    aea9
+
+[33mcommit 962193f9a3e8ee9390694a5d6b7ec02bc8288306[m
+Author: Dario <d.rrobles@hotmail.com>
+Date:   Fri Dec 4 17:39:44 2020 -0500
+
+    aea8
+
+[33mcommit 826a8deea8db3b935af0d779d6f282928f4f506b[m
+Author: Dario <d.rrobles@hotmail.com>
+Date:   Fri Dec 4 17:34:39 2020 -0500
+
+    aea7
+
+[33mcommit 6f35f2f73ca380d8c8007e2ad6b90d0078494cd6[m
+Author: Dario <d.rrobles@hotmail.com>
+Date:   Fri Dec 4 17:04:54 2020 -0500
+
+    aea6
+
+[33mcommit ff95fec0d76df813213da53c0be4c8bf071265be[m
+Author: Dario <d.rrobles@hotmail.com>
+Date:   Fri Dec 4 17:01:59 2020 -0500
+
+    aea5
+
+[33mcommit 0c46dc2fe9fa5a96a57a21e5f0721fbbbdbd37c5[m
+Author: Dario <d.rrobles@hotmail.com>
+Date:   Fri Dec 4 16:58:17 2020 -0500
+
+    aea45
+
+[33mcommit 197d93dbc4220eadc6450183fb7e137731b20bde[m
+Author: Dario <d.rrobles@hotmail.com>
+Date:   Fri Dec 4 16:24:17 2020 -0500
+
+    aea3
+
+[33mcommit 5fe570f09024854a18bec76f62cad7d27b6af516[m
+Author: Dario <d.rrobles@hotmail.com>
+Date:   Fri Dec 4 16:18:07 2020 -0500
+
+    aea2
+
+[33mcommit 224ceaf75cbcfc540c66aa32a2397849fb519289[m
+Author: Dario <d.rrobles@hotmail.com>
+Date:   Fri Dec 4 16:15:04 2020 -0500
+
+    aea1
+
+[33mcommit 38f74e37e249b50ebecfd5efc68bbcceed25d125[m
+Author: Dario <d.rrobles@hotmail.com>
+Date:   Fri Dec 4 16:05:43 2020 -0500
+
+    aea
+
+[33mcommit ed4702b87c8d5b5ab6f25a9111b3fe4b8582b79d[m
+Author: Dario <d.rrobles@hotmail.com>
+Date:   Fri Dec 4 15:58:05 2020 -0500
+
+    krlos eres una perra y no te voy a comprar nada
